@@ -3,6 +3,7 @@
 - お客様からのお問い合わせの受付及び管理するためのアプリケーション。
 
 ![toppage](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/084e9784-f0fe-4100-8a27-5f5cadbf6c01)
+![toppage_2](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/45cdb2c1-d965-4b8a-bc21-173bfd062b91)
 
 ## 作成した目的
 
