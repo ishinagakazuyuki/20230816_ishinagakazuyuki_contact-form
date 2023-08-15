@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "laravel-precognition-vue": "^0.4.1"
+  }
+}

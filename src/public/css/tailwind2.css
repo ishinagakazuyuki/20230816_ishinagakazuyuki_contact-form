@@ -1,0 +1,9 @@
+.hidden {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.page {
+    margin: auto 0;
+}

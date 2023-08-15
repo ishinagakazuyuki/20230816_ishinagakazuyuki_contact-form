@@ -1,0 +1,214 @@
+.error_message {
+    color: red;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+.error_message2 {
+    color: red;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 22px;
+    font-weight: bold;
+}
+
+.contact__content {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.contact-form {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.contact-form__item {
+    display: flex;
+    width: 100%;
+    margin-bottom: 5vw;
+}
+
+.contact-form__item-fullname {
+    font-weight: bold;
+    font-size: 20px;
+    width: 28%;
+    text-align: left;
+}
+
+.contact-form__item-content {
+    width: 100%;
+}
+
+.contact-form__item-fullname-input {
+    width: 80%;
+    height: 60px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item-example {
+    font-size: 15px;
+    color: gray;
+    width: 40%;
+}
+
+.contact-form__item-gender {
+    font-weight: bold;
+    font-size: 20px;
+    width: 17%;
+    text-align: left;
+}
+
+.contact-form__item-radio {
+    display: flex;
+    width: 25%;
+}
+
+.contact-form__item-radio-gender {
+    width: 30%;
+    height: 80%;
+}
+
+.contact-form__item-label-gender {
+    font-size: 22px;
+    display: block;
+    margin: 15px auto 0 0;
+}
+
+.contact-form__item-gender-radio {
+    width: 20%;
+    margin-left: 0;
+    height: 100%;
+}
+
+.contact-form__item-email {
+    font-weight: bold;
+    font-size: 20px;
+    width: 17%;
+    text-align: left;
+}
+
+.contact-form__item-common-input {
+    width: 95%;
+    height: 60px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item-example-email {
+    font-size: 15px;
+    color: gray;
+    width: 28%;
+}
+
+.contact-form__item-postcode {
+    font-weight: bold;
+    font-size: 20px;
+    width: 20%;
+    text-align: left;
+}
+
+.contact-form__item-postcode-icon {
+    font-weight: bold;
+    font-size: 20px;
+    width: 3%;
+    text-align: left;
+}
+
+.contact-form__item-postcode-input {
+    width: 96%;
+    height: 60px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item-example-postcode {
+    font-size: 15px;
+    color: gray;
+    width: 20%;
+}
+
+.contact-form__item-address {
+    font-weight: bold;
+    font-size: 20px;
+    width: 17%;
+    text-align: left;
+}
+
+.contact-form__item-address-input {
+    width: 82%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item-example-address {
+    font-size: 15px;
+    color: gray;
+    width: 34%;
+}
+
+.contact-form__item-building_name {
+    font-weight: bold;
+    font-size: 20px;
+    width: 17%;
+    text-align: left;
+}
+
+.contact-form__item-building_name-input {
+    width: 82%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item-example-building_name {
+    font-size: 15px;
+    color: gray;
+    width: 30%;
+}
+
+.contact-form__item2 {
+    display: flex;
+    width: 100%;
+    margin-bottom: 50px;
+    height: 200px;
+}
+
+.contact-form__item-opinion {
+    font-weight: bold;
+    font-size: 20px;
+    width: 17%;
+    text-align: left;
+}
+
+.contact-form__item-opinion-input {
+    width: 95%;
+    height: 100%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.contact-form__item3 {
+    width: 100%;
+}
+
+.contact-form__button-submit {
+    padding: 20px;
+    width: 17%;
+    border: none;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}

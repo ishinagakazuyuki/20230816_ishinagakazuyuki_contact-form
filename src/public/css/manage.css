@@ -1,0 +1,240 @@
+.delete__alert--success {
+    padding: 10px 30px;
+    border-color: #badbcc;
+    background-color: #d1e7dd;
+    color: #0f5132;
+}
+
+.search__content {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.search-form {
+    margin: 0 auto;
+    width: 87%;
+    text-align: center;
+    border: 2px solid black;
+    padding: 35px 15px;
+}
+
+.search-form__parts {
+    display: flex;
+    margin-bottom: 4vw;
+}
+
+.search-form__item {
+    width: 55%;
+    display: flex;
+    text-align: left;
+}
+
+.search-form__item2 {
+    width: 51%;
+    display: flex;
+    text-align: left;
+}
+
+.search-form__item-title {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 90px;
+}
+
+.search-form__item-input {
+    width: 64%;
+    height: 100%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.search-form__item-title-gender {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+
+.search-form__item-radio {
+    width: 10%;
+    height: 90%;
+    margin-right: 10px;
+}
+
+.search-form__item-gender {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.search-form__item3 {
+    width: 100%;
+    display: flex;
+    text-align: left;
+}
+
+.search-form__item-title-date {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 90px;
+}
+
+.search-form__item-input-date {
+    width: 33%;
+    height: 90%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.search-form__item-input-span {
+    width: 10%;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.search-form__item-title-email {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 12px;
+}
+
+.search-form__button-submit {
+    padding: 10px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.search-form__button-submit-reset {
+    padding: 10px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    background: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+.contact-table {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+    text-align: center;
+    width: 94%;
+}
+
+.contact-table__inner {
+    width: 100%;
+}
+
+.contact-table__row:first-of-type {
+    border-bottom: 3px solid black;
+}
+
+.contact-table__header {
+    padding: 12px;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    display: flex;
+}
+
+.contact-table__header-id {
+    width: 7%;
+}
+
+.contact-table__header-fullname {
+    width: 14%;
+}
+
+.contact-table__header-gender {
+    width: 8%;
+}
+
+.contact-table__header-email {
+    width: 30%;
+}
+
+.contact-table__header-opinion {
+    width: 10%;
+    margin-right: 10%;
+}
+
+.contact-table__item:first-of-type {
+    padding: 12px;
+    width: 90%;
+}
+
+.contact-table-form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.contact-table-form__id {
+    width: 7%;
+    line-height: 50%;
+}
+
+.contact-table-form__fullname {
+    width: 14%;
+    line-height: 50%;
+}
+
+.contact-table-form__gender {
+    width: 8%;
+    line-height: 50%;
+}
+
+.contact-table-form__email {
+    width: 30%;
+    line-height: 50%;
+}
+
+.contact-table-form__opinion {
+    width: 22%;
+    line-height: 50%;
+}
+
+.contact-table-form__item-input {
+    width: 100%;
+    outline: none;
+    border: none;
+}
+
+.opinion {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 10px;
+}
+
+.opinion:hover {
+    white-space: normal;
+}
+
+.delete-form__button {
+    width: 55px;
+}
+
+.delete-form__button-submit {
+    padding: 5px;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #fff;
+    cursor: pointer;
+}
