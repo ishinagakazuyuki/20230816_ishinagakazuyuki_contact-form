@@ -1,7 +1,8 @@
 # アプリケーション名
 
 - お客様からのお問い合わせの受付及び管理するためのアプリケーション。
-<img/toppage.png>
+
+![toppage](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/dfda49df-04d2-4b2e-aa45-28db065665d9)
 
 ## 作成した目的
 
@@ -20,8 +21,8 @@
 
 ## テーブル設計
 
-< --- img/contact_table_setting.drawio.svg ---- >
+![contact_table_setting drawio](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/55b03995-a5fb-429d-9ce3-5315f057069c)
 
 ## ER 図
 
-< --- img/ER.drawio.svg ---- >
+![ER drawio](https://github.com/ishinagakazuyuki/20230816_ishinagakazuyuki_contact-form/assets/135584828/bba34380-9043-4157-8a39-b10297439c8b)
