@@ -1,11 +1,11 @@
 # アプリケーション名
 
-お客様からのお問い合わせの受付及び管理するためのアプリケーション。
+- お客様からのお問い合わせの受付及び管理するためのアプリケーション。
 <img/toppage.png>
 
 ## 作成した目的
 
-確認テストを通して、自分自身の力量を確かめるため。
+- 確認テストを通して、自分自身の力量を確かめるため。
 
 ## 機能一覧
 
@@ -20,8 +20,8 @@
 
 ## テーブル設計
 
-<img/contact_table_setting.drawio.svg>
+< --- img/contact_table_setting.drawio.svg ---- >
 
 ## ER 図
 
-<img/ER.drawio.svg>
+< --- img/ER.drawio.svg ---- >
