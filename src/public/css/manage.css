@@ -132,7 +132,7 @@
     padding: 60px 15px;
     max-width: 1230px;
     text-align: center;
-    width: 94%;
+    width: 92%;
 }
 
 .contact-table__inner {
@@ -164,7 +164,7 @@
 }
 
 .contact-table__header-email {
-    width: 30%;
+    width: 35%;
 }
 
 .contact-table__header-opinion {
@@ -174,7 +174,7 @@
 
 .contact-table__item:first-of-type {
     padding: 12px;
-    width: 90%;
+    width: 85%;
 }
 
 .contact-table-form {
@@ -199,13 +199,14 @@
 }
 
 .contact-table-form__email {
-    width: 30%;
+    width: 35%;
     line-height: 50%;
 }
 
 .contact-table-form__opinion {
-    width: 22%;
+    width: 185px;
     line-height: 50%;
+    margin-top: 10px;
 }
 
 .contact-table-form__item-input {
@@ -218,7 +219,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .opinion:hover {
@@ -226,7 +227,7 @@
 }
 
 .delete-form__button {
-    width: 55px;
+    width: 50%;
 }
 
 .delete-form__button-submit {

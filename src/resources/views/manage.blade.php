@@ -103,7 +103,7 @@
                         <input type="hidden" name="id" value="{{ $contact['id'] }}" />
                     </div>
                     <div class="contact-table-form__opinion">
-                        <p id="opinion" class="contact-table-form__item-input opinion" type="text" name="opinion">{{ $contact['opinion'] }}</p>
+                        <input id="opinion" class="contact-table-form__item-input opinion" type="text" name="opinion" value="{{ $contact['opinion'] }}" readonly/>
                         <input type="hidden" name="id" value="{{ $contact['id'] }}" />
                     </div>
                 </form>
